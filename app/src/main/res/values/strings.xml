@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Dogs</string>
     <string name="next_image">Next image</string>
+    <string name="toast_loading_error_we_are_sorry">Loading error. We are sorry!</string>
 </resources>
